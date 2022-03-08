@@ -5,4 +5,19 @@
          <lastmod>2022-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://vin-spiegel.github.io/api/</loc>
+         <lastmod>2022-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vin-spiegel.github.io/test1/</loc>
+         <lastmod>2022-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vin-spiegel.github.io/test2/</loc>
+         <lastmod>2022-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
