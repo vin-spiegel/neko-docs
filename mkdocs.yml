@@ -1,1 +1,38 @@
-site_name: My Docs
+# project info
+site_name: neko-docs
+site_url: https://vin-spiegel.github.io
+site_author: Vin Spiegel
+site_description: >-
+  네코랜드 비공식 독스 아카이브 입니다
+
+# Repository
+repo_name: vin-spiegel/neko-docs
+repo_url: https://github.com/vin-spiegel/neko-docs
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2016 - 2022 Spiegel
+
+# 테마 셋업
+theme:
+  name: material
+
+  # 탭 메뉴
+  features:
+    - navigation.tabs
+
+  palette:
+    scheme: slate
+    primary: indigo
+  language: kr
+
+nav:
+  - Home: index.md
+
+  - test1: test1.md
+
+  - test2: test2.md
+    # - test2: test2.md
+    #   - dd: test1.md
+    # - Installation: getting-started.md
+    # - Installation: getting-started.md
