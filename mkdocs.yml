@@ -13,6 +13,7 @@ edit_uri: ""
 # Copyright
 copyright: Copyright &copy; 2016 - 2022 Spiegel
 
+# 마크다운 확장
 markdown_extensions:
   # 약어
   - abbr
@@ -30,16 +31,19 @@ markdown_extensions:
 theme:
   name: material
 
+  # 특성
   features:
     # 메뉴 탭바
     - navigation.tabs
     # 컨텐츠 탭바
     - content.tabs.link
 
+  # 팔레트
   palette:
     scheme: slate
     primary: indigo
 
+  # 언어
   language: kr
 
   icon:
@@ -58,13 +62,10 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 
+# 메뉴 구성
 nav:
   - Home: index.md
 
   - test1: test1.md
 
   - test2: test2.md
-    # - test2: test2.md
-    #   - dd: test1.md
-    # - Installation: getting-started.md
-    # - Installation: getting-started.md
