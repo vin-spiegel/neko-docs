@@ -23,6 +23,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - tables
+
   # 컨텐츠 탭
   - pymdownx.tabbed:
       alternate_style: true
